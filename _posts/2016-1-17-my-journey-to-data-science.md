@@ -1,10 +1,7 @@
 After completing a grueling 4-year academic experience at Johns Hopkins balancing a major in Biomedical Engineering, a major in Applied Math & Statistics and a minor in Entreprenurship & Management, I was surprisingly uncertain of where I wanted to take my life upon graduation.   
 <br />
 
-<p>
-<a href="url"><img src="https://github.com/jmfradkin/jmfradkin.github.io/blob/master/images/grad_pic.jpg" align="center" height="300" width="400" ></a>
-</p>
-*JHU Grauduation 2014 with my amazing parents by my side!*
+![Grad pic](https://github.com/jmfradkin/jmfradkin.github.io/blob/master/images/grad_pic.jpg)
 
 Despite all the classes and labs required to earn a degree in Engineering, I really didn't know what to expect as I applied it in an industry setting. I was excited to begin working at Medtronic in R&D, where I contributed to the development of a powered tissue stapler by analyzing prototype performance on functional testers, evaluating design modifications, and creating technical documentation to help launch the product. I loved the collaborative aspect of R&D, and it was wonderful to work with talented engineers who share my passion for advancing technology to improve healthcare.  The learning curve was steep, since my research experience at Hopkins focused on "wet lab" cell/tissue engineering with less emphasis on mechanical engineering. But from my first day to my last at Medtronic, I was acquiring new skills, meeting people from various groups, and finding new ways to contribute to the product.    
 <br />
@@ -15,6 +12,4 @@ I didn't know exactly which characteristics composed a successful data scientist
 We just wrapped up Week 1 of the bootcamp, and I could not be happier with my decision to pursue data science with Metis. I'm still shocked that in just 4 days, I was able to produce data-driven insights to a "client" in order to help them optimize recruitment for a Women in Tech event by stationing their street team volunteers at various subway stations around the city. My group and I analyzed MTA turnstile data to determine the best time and locations to acquire signatures and donations near subway stations and supplemented this with socioeconomic data describing the demographics around each subway station. I'm so happy to be a part of Cohort 6 and surround myself with talented individuals who each bring a diverse background and various motivations for studying data science. The hours are long and the curriculum is packed, but I love the challenge and never-ending excitement of data science. Can't wait to see what the next 11 weeks bring!  
 </br>  
 
-<p>
-<a href="url"><img src="https://github.com/jmfradkin/jmfradkin.github.io/blob/master/images/meme.jpg" align="center" height="300" width="300" ></a>
-</p>
+![DS Meme](https://github.com/jmfradkin/jmfradkin.github.io/blob/master/images/meme.jpg)
